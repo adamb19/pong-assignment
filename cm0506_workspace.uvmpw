@@ -9,10 +9,12 @@
 
   <project>
     <PathAndName>.\mbed_nxp_lpc408x\mbed.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
   <project>
     <PathAndName>.\ebb\ebb.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
   <project>
